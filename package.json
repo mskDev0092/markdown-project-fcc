@@ -1,0 +1,23 @@
+{
+  "name": "markdown-preview",
+  "description": "A simple markdown previewer",
+  "author": "Shehzad",
+  "version": "0.0.0",
+  "private": false,
+  "dependencies": {
+    "@types/react": "^18.2.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.7",
+    "remark-gfm": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
