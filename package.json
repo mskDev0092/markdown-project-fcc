@@ -1,9 +1,9 @@
 {
   "name": "markdown-preview",
-  "description": "A simple markdown previewer",
+  "description": "A react markdown previewer",
   "author": "Shehzad",
   "version": "0.0.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@types/react": "^18.2.20",
     "react": "^18.2.0",
