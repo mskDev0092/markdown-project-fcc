@@ -14,23 +14,27 @@ export default function Editor() {
   return (
     <>
       <div className="wrap">
-        <h1>Editor</h1>
+        <div className="left">
+          <button className="btn1">Editor</button>
 
-        <textarea
-          id="editor"
-          type="text"
-          name="markdown"
-          onChange={handleChange}
-          defaultValue={dummyText}
-        />
-        <h1>Previewer</h1>
-        <ReactMarkdown
-          remarkPlugins={[gfm]}
-          className="reactMarkdown"
-          id="preview"
-        >
-          {atext.markdown}
-        </ReactMarkdown>
+          <textarea
+            id="editor"
+            type="text"
+            name="markdown"
+            onChange={handleChange}
+            defaultValue={dummyText}
+          />
+        </div>
+        <div className="right">
+          <button className="btn2">Previewer</button>
+          <ReactMarkdown
+            remarkPlugins={[gfm]}
+            className="reactMarkdown"
+            id="preview"
+          >
+            {atext.markdown}
+          </ReactMarkdown>
+        </div>
       </div>
     </>
   );
