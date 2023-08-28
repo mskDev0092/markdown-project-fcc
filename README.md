@@ -9,7 +9,7 @@ Practiced react useState , gfm and react-markdown to make this markdown editor.
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/mskDev0092/markdown-project-fcc/blob/main/Screenshot%202023-08-28%20at%2011-03-26%20React%20Markdown-Previewer.png)
 
 ## Features
 
