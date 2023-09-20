@@ -14,7 +14,7 @@ Practiced react useState , gfm and react-markdown to make this markdown editor.
 ## Features
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mskDev0092/markdown-project-fcc)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mskDev0092)
 
 # markdown-project-fcc
 
